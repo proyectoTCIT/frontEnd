@@ -1,0 +1,10 @@
+#card{
+  margin-top: 10px;
+}
+#div_id {
+  /*height: 400px;*/
+   visibility:hidden;
+}
+#updateBtn{
+  margin-left: 5px;
+}
